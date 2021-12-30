@@ -1,5 +1,5 @@
 {
-    "name": "elastic/apm-agent",
+    "name": "ozznest/apm-agent",
     "description": "Elastic APM PHP Agent",
     "keywords": [ "elastic", "apm", "tracing", "apm-agent" ],
     "type": "library",
